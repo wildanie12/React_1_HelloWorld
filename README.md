@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+# Hello World - React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project ini adalah Mini Project untuk tujuan pembelajaran library front-end yang paling populer yaitu "React". Mini project ini memilik skenario aplikasi untuk mengelola ToDo list / manajemen tugas. Pembelajaran ini mengikuti tutorial berdurasi 1 jam dari Traversy Media oleh Brad dari awal sampai selesai.
+
+Berikut sedikit screenshot dari mini project ini:
+!['Screenshot aplikasi'](images/screenshot.png)
+
+## Kesimpulan Saya
+
+
+
+### Teknologi yang digunakan
+* [ReactJS](https://reactjs.org/)
+* [Json Server](https://reactjs.org/)
+
 
 ## Available Scripts
 
